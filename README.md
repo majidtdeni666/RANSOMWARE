@@ -15,7 +15,7 @@ User can customize:
 ### Installation
 Quick installation for Ubuntu, Kali Linux, Darwin (Macos)
 ```bash
-git clone https://github.com/majidtdeni666/RANSOMWARE && cd RANSOMWARE && sudo bash install.sh
+git clone https://github.com/majidtdeni666/RANSOMWARE.git && cd RANSOMWARE && sudo bash install.sh
 ```
 Quick installation for Termux Android (Rooted)
 ### Termux
