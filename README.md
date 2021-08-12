@@ -24,7 +24,7 @@ Quick installation for Termux Android (Rooted)
 - apt-get install python -y
 - pip install Pillow
 ```bash
-- git clone https://github.com/majidtdeni666/RANSOMWARE
+- git clone https://github.com/majidtdeni666/RANSOMWARE.git
 - cd RANSOMWARE
 - tsu
 - bash installtermux.sh
