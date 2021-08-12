@@ -57,7 +57,7 @@ Tested on devices ```Android 11```
 
 ### Support Me
 Facebook [@ꦡꦺꦴꦱꦤ꧀ ꦄꦗꦶ](https://m.facebook.com/deni6660?ref=bookmarks)<br>
-YouTube [@ꦮꦼꦱꦶ ꦲꦗꦶ](https://youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA/)
+YouTube [@Majidt Deni](https://youtube.com/channel/UCuB1DJ0d1u9mkZIivlJIgCA/)
 
 ### Credit's
 Copyright ©2077 by [Majidt Deni](https://github.com/majidtdeni666)
