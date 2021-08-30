@@ -12,13 +12,9 @@ User can customize:
 - ```alert_title``` - custom alert title
 - ```alert_desc``` - custom alert description
 - ```key_pass``` - custom key for unlock devices
-### Installation
-Quick installation for Ubuntu, Kali Linux, Darwin (Macos)
-```bash
-git clone https://github.com/majidtdeni666/RANSOMWARE.git && cd RANSOMWARE && sudo bash install.sh
-```
-Quick installation for Termux Android (Rooted)
-### Termux
+
+### Quick installation for Termux Android (Rooted)
+Termux Installation:
 - apt-get install tsu -y
 - apt-get install imagemagick -y
 - apt-get install python -y
