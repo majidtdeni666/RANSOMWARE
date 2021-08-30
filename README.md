@@ -40,8 +40,6 @@ Termux Installation:
 - Python3-pip
    - Pillow
 
-### Tools overview
-<img src="https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/view.jpg"></img>
 Need root access for ```Termux Android```
 
 ### Ransomware overview
