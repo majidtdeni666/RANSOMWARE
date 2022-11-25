@@ -28,8 +28,6 @@ Termux Installation:
 - bash installtermux.sh
 - python3 ransomware.py
 ```
-### Video Tutorial using TERMUX (jist click the picture bellow)
-[![Subs My Channel](https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/view.jpg)](https://youtu.be/VSy07kr4HpA) 
 ### Dependencies
 - Java
    - Openjdk 11
