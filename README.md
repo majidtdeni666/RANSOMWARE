@@ -15,9 +15,11 @@ User can customize:
 
 ### Quick installation for Termux Android (Rooted)
 Termux Installation:
-- apt-get install tsu -y
-- apt-get install imagemagick -y
-- apt-get install python -y
+- pkg update -y && pkg upgrade -y
+- pkg install tsu -y
+- pkg install imagemagick -y
+- pkg install python -y
+- pkg install bash -y
 - pip install Pillow
 ```bash
 - git clone https://github.com/majidtdeni666/RANSOMWARE.git
