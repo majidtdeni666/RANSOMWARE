@@ -53,7 +53,6 @@ Tested on devices ```Android 11```
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=9f-oX7j91-Q&t=11s"
 
 ### Support Me
 YouTube [@Majidt Deni](https://www.youtube.com/@majidtdeni)
