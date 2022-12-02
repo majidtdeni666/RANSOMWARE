@@ -49,7 +49,7 @@ Tested on devices ```Android 11```
 ### Output logs
 <img src="https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/outputlog.jpg"></img>
 
-## <Example>
+## <Example
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![#akeboshi #naruto #sasuke #uzumaki #uchiha](https://ytcards.demolab.com/?id=EYHsWtJwHxA&title=%23akeboshi+%23naruto+%23sasuke+%23uzumaki+%23uchiha&lang=en&timestamp=1669925009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#akeboshi #naruto #sasuke #uzumaki #uchiha")](https://www.youtube.com/watch?v=EYHsWtJwHxA)
