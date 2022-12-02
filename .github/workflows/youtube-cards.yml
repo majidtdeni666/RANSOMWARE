@@ -13,13 +13,3 @@ jobs:
         with:
           channel_id: UCuB1DJ0d1u9mkZIivlJIgCA
           max_videos: 20
-on:
-  push:
-    branches:
-    - main
-    - release/*
-
-on:
-  pull_request:
-    branches:
-    - main
