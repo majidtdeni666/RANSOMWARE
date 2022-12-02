@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every hour, on the hour
     - cron: "0 2 * * 1-5"
+    workflow_dispatch:
     
 on:
   push:
