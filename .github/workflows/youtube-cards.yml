@@ -2,9 +2,19 @@ name: GitHub Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 * * * *"
-  workflow_dispatch:
+    - cron: "0 2 * * 1-5"
+    
+on:
+  push:
+    branches:
+    - main
+    - release/*
 
+on:
+  pull_request:
+    branches:
+    - main
+    
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -12,4 +22,4 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCuB1DJ0d1u9mkZIivlJIgCA
-          max_videos: 50
+          max_videos: 20
