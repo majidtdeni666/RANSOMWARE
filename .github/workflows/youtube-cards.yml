@@ -5,6 +5,14 @@ on:
     - cron: "0 2 * * 1-5"
     workflow_dispatch:
     
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCuB1DJ0d1u9mkZIivlJIgCA
+          max_videos: 20
 on:
   push:
     branches:
@@ -15,12 +23,3 @@ on:
   pull_request:
     branches:
     - main
-    
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UCuB1DJ0d1u9mkZIivlJIgCA
-          max_videos: 20
