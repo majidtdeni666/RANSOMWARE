@@ -52,6 +52,7 @@ Tested on devices ```Android 11```
 ## <Example
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Kucing kelahi #cat #kucing #fight](https://ytcards.demolab.com/?id=XsyBntaLhC4&title=Kucing+kelahi+%23cat+%23kucing+%23fight&lang=en&timestamp=1670025890&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Kucing kelahi #cat #kucing #fight")](https://www.youtube.com/watch?v=XsyBntaLhC4)
 [![#anime](https://ytcards.demolab.com/?id=U_5QpOhfBf4&title=%23anime&lang=en&timestamp=1670013362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#anime")](https://www.youtube.com/watch?v=U_5QpOhfBf4)
 [![#akeboshi #naruto #sasuke #uzumaki #uchiha](https://ytcards.demolab.com/?id=EYHsWtJwHxA&title=%23akeboshi+%23naruto+%23sasuke+%23uzumaki+%23uchiha&lang=en&timestamp=1669925009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#akeboshi #naruto #sasuke #uzumaki #uchiha")](https://www.youtube.com/watch?v=EYHsWtJwHxA)
 [![#cutecat  #cat](https://ytcards.demolab.com/?id=nexpgXciB3Q&title=%23cutecat++%23cat&lang=en&timestamp=1669924776&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#cutecat  #cat")](https://www.youtube.com/watch?v=nexpgXciB3Q)
@@ -66,7 +67,6 @@ Tested on devices ```Android 11```
 [![pang adem ing ati](https://ytcards.demolab.com/?id=giTLXbWxh3E&title=pang+adem+ing+ati&lang=en&timestamp=1656257063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "pang adem ing ati")](https://www.youtube.com/watch?v=giTLXbWxh3E)
 [![Jean (Genshin Impact)](https://ytcards.demolab.com/?id=ufc1yKVEADo&title=Jean+%28Genshin+Impact%29&lang=en&timestamp=1655779564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Jean (Genshin Impact)")](https://www.youtube.com/watch?v=ufc1yKVEADo)
 [![Teapot Floating Tutorial (Genshin Impact)](https://ytcards.demolab.com/?id=uOsgjtkRuv8&title=Teapot+Floating+Tutorial+%28Genshin+Impact%29&lang=en&timestamp=1655419895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Teapot Floating Tutorial (Genshin Impact)")](https://www.youtube.com/watch?v=uOsgjtkRuv8)
-[![Zhong Li](https://ytcards.demolab.com/?id=R3rzHHCYPtg&title=Zhong+Li&lang=en&timestamp=1654579850&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Zhong Li")](https://www.youtube.com/watch?v=R3rzHHCYPtg)
 <!-- END YOUTUBE-CARDS -->
 
 ### Support Me
