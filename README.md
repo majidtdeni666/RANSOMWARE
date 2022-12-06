@@ -22,7 +22,7 @@ Termux Installation:
 - pkg install bash -y
 - pip install Pillow
 ```bash
-- git clone https://github.com/majidtdeni666/RANSOMWARE.git
+- git clone https://github.com/majidtdeni666/RANSOMWARE
 - cd RANSOMWARE
 - tsu
 - bash installtermux.sh
