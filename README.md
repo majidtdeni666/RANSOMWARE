@@ -52,6 +52,7 @@ Tested on devices ```Android 11```
 ## <Example
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Archetype](https://ytcards.demolab.com/?id=_Uj_5hDjrYc&title=Archetype&lang=en&timestamp=1670401887&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Archetype")](https://www.youtube.com/watch?v=_Uj_5hDjrYc)
 [![Kucing kelahi #cutecat #cat #kucing #fight](https://ytcards.demolab.com/?id=XsyBntaLhC4&title=Kucing+kelahi+%23cutecat+%23cat+%23kucing+%23fight&lang=en&timestamp=1670025890&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Kucing kelahi #cutecat #cat #kucing #fight")](https://www.youtube.com/watch?v=XsyBntaLhC4)
 [![#anime](https://ytcards.demolab.com/?id=U_5QpOhfBf4&title=%23anime&lang=en&timestamp=1670013362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#anime")](https://www.youtube.com/watch?v=U_5QpOhfBf4)
 [![#cutecat  #cat](https://ytcards.demolab.com/?id=nexpgXciB3Q&title=%23cutecat++%23cat&lang=en&timestamp=1669924776&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "#cutecat  #cat")](https://www.youtube.com/watch?v=nexpgXciB3Q)
@@ -65,7 +66,6 @@ Tested on devices ```Android 11```
 [![Perpetual Mechanical Array](https://ytcards.demolab.com/?id=MJEokCzHi7I&title=Perpetual+Mechanical+Array&lang=en&timestamp=1656554768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Perpetual Mechanical Array")](https://www.youtube.com/watch?v=MJEokCzHi7I)
 [![pang adem ing ati](https://ytcards.demolab.com/?id=giTLXbWxh3E&title=pang+adem+ing+ati&lang=en&timestamp=1656257063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "pang adem ing ati")](https://www.youtube.com/watch?v=giTLXbWxh3E)
 [![Jean (Genshin Impact)](https://ytcards.demolab.com/?id=ufc1yKVEADo&title=Jean+%28Genshin+Impact%29&lang=en&timestamp=1655779564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Jean (Genshin Impact)")](https://www.youtube.com/watch?v=ufc1yKVEADo)
-[![Teapot Floating Tutorial (Genshin Impact)](https://ytcards.demolab.com/?id=uOsgjtkRuv8&title=Teapot+Floating+Tutorial+%28Genshin+Impact%29&lang=en&timestamp=1655419895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Teapot Floating Tutorial (Genshin Impact)")](https://www.youtube.com/watch?v=uOsgjtkRuv8)
 <!-- END YOUTUBE-CARDS -->
 
 ### Support Me
