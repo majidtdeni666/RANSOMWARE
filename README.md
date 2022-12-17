@@ -66,6 +66,7 @@ Tested on devices ```Android 11```
 [![Perpetual Mechanical Array](https://ytcards.demolab.com/?id=MJEokCzHi7I&title=Perpetual+Mechanical+Array&lang=en&timestamp=1656554768&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Perpetual Mechanical Array")](https://www.youtube.com/watch?v=MJEokCzHi7I)
 [![pang adem ing ati](https://ytcards.demolab.com/?id=giTLXbWxh3E&title=pang+adem+ing+ati&lang=en&timestamp=1656257063&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "pang adem ing ati")](https://www.youtube.com/watch?v=giTLXbWxh3E)
 [![Jean (Genshin Impact)](https://ytcards.demolab.com/?id=ufc1yKVEADo&title=Jean+%28Genshin+Impact%29&lang=en&timestamp=1655779564&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Jean (Genshin Impact)")](https://www.youtube.com/watch?v=ufc1yKVEADo)
+[![Teapot Floating Tutorial (Genshin Impact)](https://ytcards.demolab.com/?id=uOsgjtkRuv8&title=Teapot+Floating+Tutorial+%28Genshin+Impact%29&lang=en&timestamp=1655419895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Teapot Floating Tutorial (Genshin Impact)")](https://www.youtube.com/watch?v=uOsgjtkRuv8)
 <!-- END YOUTUBE-CARDS -->
 
 ### Support Me
