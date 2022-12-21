@@ -73,4 +73,4 @@ Tested on devices ```Android 11```
 YouTube [@Majidt Deni](https://www.youtube.com/@majidtdeni)
 
 ### Credit's
-Copyright ©2077 by [Majidt Deni](https://github.com/majidtdeni666)
+Copyright ©2020 by [Majidt Deni](https://github.com/majidtdeni666)
