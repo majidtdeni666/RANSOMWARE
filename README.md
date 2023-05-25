@@ -51,6 +51,7 @@ Tested on devices ```Android 11```
 
 ### Support Me
 YouTube [@Majidt Deni](https://www.youtube.com/@majidtdeni)
+Instagram [@Jedral_Alatus](https://instagram.com/jendral_alatus)
 
 ### Credit's
 Copyright ©2020 by [Majidt Deni](https://github.com/majidtdeni666)
