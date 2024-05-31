@@ -50,8 +50,8 @@ Tested on devices ```Android 11```
 <img src="https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/outputlog.jpg"></img>
 
 ### Support Me
-YouTube [@Kenichiro](https://www.youtube.com/@yt.kenichiro) <br>
-Instagram [@kenichiro.kun](https://instagram.com/kenichiro.kun)
+YouTube [@kenichiroYT](https://www.youtube.com/@yt.kenichiro) <br>
+Instagram [@kenichiro.ig](https://instagram.com/kenichiro.ig)
 
 ### Credit's
 Copyright ©2020 by [Majidt Deni](https://github.com/majidtdeni666)
