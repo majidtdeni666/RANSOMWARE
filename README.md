@@ -20,14 +20,14 @@ Termux Installation:
 - pkg install imagemagick -y
 - pkg install python -y
 - pkg install bash -y
-- pkg install git -y
 - pip install Pillow
-```bash
+- pkg install git -y
 - git clone https://github.com/majidtdeni666/RANSOMWARE
 - cd RANSOMWARE
 - tsu
 - bash installtermux.sh
 - python3 ransomware.py
+
 ```
 ### Dependencies
 - Java
