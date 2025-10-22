@@ -40,19 +40,24 @@ Termux Installation:
 - Python3
 - Python3-pip
    - Pillow
-
+```
+```
 Need root access for ```Termux Android```
-
+```
+```
 ### Ransomware overview
 <img src="https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/ransomware.jpg"></img>
+```
+```
 Tested on devices ```Android 11```
-
+```
 ### Output logs
 <img src="https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/outputlog.jpg"></img>
 
 ### Support Me
 YouTube [@kenichiro-YT](https://youtube.com/@KenichiroYT) <br>
 Instagram [@kenichiro.ig](https://instagram.com/kenichiro.ig)
-
 ### Credit's
 Copyright ©2020 by [Majidt Deni](https://github.com/majidtdeni666)
+
+```
