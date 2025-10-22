@@ -28,7 +28,6 @@ Termux Installation:
 - bash installtermux.sh
 - python3 ransomware.py
 
-```
 ### Dependencies
 - Java
    - Openjdk 11
@@ -39,18 +38,12 @@ Termux Installation:
 - Imagemagick
 - Python3
 - Python3-pip
-   - Pillow
-```
-```
+- Pillow
+
 Need root access for ```Termux Android```
-```
-```
 ### Ransomware overview
 <img src="https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/ransomware.jpg"></img>
-```
-```
 Tested on devices ```Android 11```
-```
 ### Output logs
 <img src="https://github.com/majidtdeni666/RANSOMWARE/blob/master/src/outputlog.jpg"></img>
 
@@ -59,5 +52,3 @@ YouTube [@kenichiro-YT](https://youtube.com/@KenichiroYT) <br>
 Instagram [@kenichiro.ig](https://instagram.com/kenichiro.ig)
 ### Credit's
 Copyright ©2020 by [Majidt Deni](https://github.com/majidtdeni666)
-
-```
